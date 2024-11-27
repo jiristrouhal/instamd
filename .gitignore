@@ -1,0 +1,7 @@
+*.pyc
+.vscode
+.venv
+*.log
+.mypy_cache
+
+
