@@ -4,4 +4,6 @@
 *.log
 .mypy_cache
 
-
+/build
+*.egg-info*
+.env
